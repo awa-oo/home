@@ -134,7 +134,7 @@ const siteIcon = {
 
 ### 社交链接
 
-在 `src/assets/socialLinks.json` 中可以自定义社交链接。
+在 `src/assets/socialLinks.json` 中就可以自定义社交链接。
 
 ### 天气
 
